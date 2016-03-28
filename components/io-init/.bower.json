@@ -1,0 +1,36 @@
+{
+  "name": "io-init",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "io-init.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "518abcfd1d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "518abcfd1df898406937d6e95c43cbbf1663b62a"
+  },
+  "_source": "git@github.com:io20/io-init.git",
+  "_target": "master",
+  "_originalSource": "git@github.com:io20/io-init",
+  "_direct": true
+}
